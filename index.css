@@ -1,0 +1,27 @@
+body {
+    text-align: center;
+    background-color: rgb(231, 216, 192);
+    background-image: url(https://www.wonderverseindonesia.com/storage/app/uploads/public/660/151/a06/660151a06439d982340949.jpg);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    color: rgb(5, 5, 64);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: medium;
+}
+footer {
+    text-align: right;
+    background-color: black;
+    color: antiquewhite;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: small;
+}
+
+h2 {
+    background-color: rgb(5, 5, 64);
+    color: rgb(231, 216, 192);
+}
+
+div {
+    border: 2px solid rgb(5, 5, 64);
+    border-radius: 3px;
+}
